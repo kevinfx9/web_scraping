@@ -1,0 +1,20 @@
+title
+DOI
+mainQuestAns
+studySubj
+modelOrg
+modelOrgNumber
+modelOrgIndicator
+indication
+techUsed
+selectionCriteria
+genus
+speciesNStrain
+profileDependent
+avgImpactFactor
+genesInvolved
+pathwaysInvolved
+metabolitesFactors
+biomesNBiomes
+organismClassification
+comment (edited) 
